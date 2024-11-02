@@ -1,0 +1,920 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2024-08-15T13:04:42.751Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "4",
+      "object_repr": "lagostech@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2024-08-15T13:07:36.164Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Lagos Tech Solutions",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2024-08-15T13:09:41.097Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "5",
+      "object_repr": "kanoagro@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2024-08-15T13:09:48.338Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Kano Agro Enterprises",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2024-08-15T13:10:25.610Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "6",
+      "object_repr": "phoil@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2024-08-15T13:10:33.722Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Port Harcourt Oil Services",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2024-08-15T13:11:04.695Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "7",
+      "object_repr": "ibadanagric@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2024-08-15T13:11:12.004Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "Ibadan Agric Innovations",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2024-08-15T13:11:40.884Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "8",
+      "object_repr": "calabartourism@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2024-08-15T13:11:47.569Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "8",
+      "object_repr": "Calabar Tourism Ltd",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2024-08-15T13:12:45.242Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "9",
+      "object_repr": "oluwaseunadebayo@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2024-08-15T13:12:50.914Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Oluwaseun Adebayo",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2024-08-15T13:13:18.821Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "10",
+      "object_repr": "chukwudiokafor@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2024-08-15T13:13:24.221Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "Chukwudi Okafor",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2024-08-15T13:13:52.195Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "11",
+      "object_repr": "fatimaabubakar@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2024-08-15T13:13:54.403Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Fatima Abubakar",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2024-08-15T13:14:33.383Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "12",
+      "object_repr": "emekanwosu@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2024-08-15T13:14:36.415Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Emeka Nwosu",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2024-08-15T13:14:42.849Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Emeka Nwosu",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Gender\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2024-08-15T13:15:06.040Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "13",
+      "object_repr": "aminayusuf@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2024-08-15T13:15:08.809Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "Amina Yusuf",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2024-08-15T13:20:21.075Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "14",
+      "object_repr": "hassanabdullahi@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2024-08-15T13:20:25.176Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "1",
+      "object_repr": "Hassan Abdullahi",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2024-08-15T13:21:13.773Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "15",
+      "object_repr": "abdul.aliyu@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2024-08-15T13:21:23.512Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "2",
+      "object_repr": "Abdul Aliyu",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2024-08-15T13:21:53.984Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "16",
+      "object_repr": "fatimabello@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2024-08-15T13:21:56.061Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "3",
+      "object_repr": "Fatima Bello",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2024-08-15T13:22:24.219Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "17",
+      "object_repr": "suleimanusman@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2024-08-15T13:22:27.906Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "4",
+      "object_repr": "Suleiman Usman",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2024-08-15T13:22:54.720Z",
+      "user": 1,
+      "content_type": 6,
+      "object_id": "18",
+      "object_repr": "maryamgambo@email.com",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2024-08-15T13:22:57.680Z",
+      "user": 1,
+      "content_type": 10,
+      "object_id": "5",
+      "object_repr": "Maryam Gambo",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "2r3pcbz82boka5vljjdt2fifau68zz6z",
+    "fields": {
+      "session_data": ".eJxVjDsOwyAQBe9CHSEwLJ-U6X0GxJoldhKBZOwqyt1jJBdJ-2bmvVmI-zaHvdEalsSuTLLL74ZxelLpID1iuVc-1bKtC_Ku8JM2PtZEr9vp_h3Msc1HbTHrCYz0SQsEkDaTEQNqBOvIUEcOfPYKIiowgrTzSsFR-UE6qdjnC83LNsk:1sea93:iJvqILbEFIRPvpuD2jfsmriELnPlBOMjLpDbi0yZDn8",
+      "expire_date": "2024-08-29T13:04:01.348Z"
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$M2RG7V1AjTsqzSF4Hb37zW$mCM/Nrh0A7hlvYsVHQboDbTY3g1G1ZJdnv5DXcxbeXw=",
+      "last_login": "2024-08-15T13:04:01.344Z",
+      "is_superuser": true,
+      "email": "lotatayo@email.com",
+      "name": "Lotanna Tayo",
+      "is_active": true,
+      "is_staff": true,
+      "user_type": "admin",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$FK2STptlMz2kR706fI4qw8$2Dg0XgSEDZHQoow/X7b3W5/GoHcB/dv7Q23PxR9RLtM=",
+      "last_login": null,
+      "is_superuser": true,
+      "email": "olachukwu@email.com",
+      "name": "Olanna Chukwuma",
+      "is_active": true,
+      "is_staff": true,
+      "user_type": "admin",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$1oB7UAxc2bdcI1iV8o7JtH$n1wfUTpcaHewRqaQDZX4eMqCLDcw13FqUQWB1nTPi9g=",
+      "last_login": null,
+      "is_superuser": true,
+      "email": "jakwali@email.com",
+      "name": "Jasi Kwali",
+      "is_active": true,
+      "is_staff": true,
+      "user_type": "admin",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$hTg8ARkZCng2rDHkbKiSwo$QHd427mxVHvMIuv4wPz232ilOpGjIbhONWNGVdXj1ok=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "lagostech@email.com",
+      "name": "Lagos Tech Solutions",
+      "is_active": true,
+      "is_staff": false,
+      "user_type": "company",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 5,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$wrWNY3TqF1LlDLHDTi3PfW$jghI/C249ScrCPaSgrET/WUF1Ybpv0e/LlKj2zWxF/Q=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "kanoagro@email.com",
+      "name": "Kano Agro Enterprises",
+      "is_active": true,
+      "is_staff": false,
+      "user_type": "company",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 6,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$jgX0sppu1J13p07fpZbMdB$bJ9YoTXYdj14irk1GHR59lnuSFjNHIY7jpMcPG8VBM0=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "phoil@email.com",
+      "name": "Port Harcourt Oil Services",
+      "is_active": true,
+      "is_staff": false,
+      "user_type": "company",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 7,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$xCMWi3lmJ1XJGpOP0iEixV$omG4rvH8j/nZUatAMsbrsoZ03EghgRONP9emegAtCgE=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "ibadanagric@email.com",
+      "name": "Ibadan Agric Innovations",
+      "is_active": true,
+      "is_staff": false,
+      "user_type": "company",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 8,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$VPiDV5P8pu6lZDU21l688t$8iZkR3vVikOe/Gqeh/eBmp0tTi15eh+ftcNRaf3MCEc=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "calabartourism@email.com",
+      "name": "Calabar Tourism Ltd",
+      "is_active": true,
+      "is_staff": false,
+      "user_type": "company",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 9,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$oXM5W26qovzt8cJAx76SkO$d2hX2Lg/5C4V7JqdAnro9pryKMtxC31HkhtRGYGnLlA=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "oluwaseunadebayo@email.com",
+      "name": "Oluwaseun Adebayo",
+      "is_active": true,
+      "is_staff": false,
+      "user_type": "individual",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 10,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$jeA40YUwAiLDPQUTaeYsOa$83pg5V2wVJfFWI9K2HFWgiwLKAdSyoaj2F27L2626Nk=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "chukwudiokafor@email.com",
+      "name": "Chukwudi Okafor",
+      "is_active": true,
+      "is_staff": false,
+      "user_type": "individual",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 11,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$sZVgZafsaoGWx95eMD5Nin$S0FQ1GJEGm9y+BGunkWUQvIfyTbKVMCZdyPQ+Ic2Yeo=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "fatimaabubakar@email.com",
+      "name": "Fatima Abubakar",
+      "is_active": true,
+      "is_staff": false,
+      "user_type": "individual",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 12,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$57hCa8NpODDRODTTgykw3b$/0LifGq2hNQ3fou0IrM4DkqPwDicYjquC8FeZRTdcaM=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "emekanwosu@email.com",
+      "name": "Emeka Nwosu",
+      "is_active": true,
+      "is_staff": false,
+      "user_type": "individual",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 13,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$jjBtxHtPeJh1szQyErWDUy$qB9B8HaXJg2ARkC4WxDwY2U9zTLqo7UAVYg7FiiwHeo=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "aminayusuf@email.com",
+      "name": "Amina Yusuf",
+      "is_active": true,
+      "is_staff": false,
+      "user_type": "individual",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 14,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$nowp0nSc7Kc908GU5r215r$MiU4+01KIn29RzeDII3CNJ4uPl2it0ed6xGANjRlh90=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "hassanabdullahi@email.com",
+      "name": "Hassan Abdullahi",
+      "is_active": true,
+      "is_staff": true,
+      "user_type": "admin",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 15,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$rKxgqOVEN4gdygJ5PMqNLr$u/e5Wj3vEaHVpZJPvlqGeLVCA4dJ38kwxhWk7NwIiEQ=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "abdul.aliyu@email.com",
+      "name": "Abdul Aliyu",
+      "is_active": true,
+      "is_staff": true,
+      "user_type": "individual",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 16,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$VAyEwg5G2JSLYsFVlUeJ49$miLLRHySe1JNfY60Ze/vY4qSKiFaVQSkHmSxRTIlkjk=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "fatimabello@email.com",
+      "name": "Fatima Bello",
+      "is_active": true,
+      "is_staff": true,
+      "user_type": "individual",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 17,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$yIqfHjh5fG0v4hQX6jy4vF$FAIHXceMW+89kXite4SYva57z/7+Cydugta0nK/Ntw8=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "suleimanusman@email.com",
+      "name": "Suleiman Usman",
+      "is_active": true,
+      "is_staff": true,
+      "user_type": "admin",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.customuser",
+    "pk": 18,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$eZFPCPbxvB74ggivL6jP9t$Ia2x1UExn+CIoT1NAuA/U8Wrb4Eg61cAina6a+FAh5M=",
+      "last_login": null,
+      "is_superuser": false,
+      "email": "maryamgambo@email.com",
+      "name": "Maryam Gambo",
+      "is_active": true,
+      "is_staff": true,
+      "user_type": "individual",
+      "profile_picture": "",
+      "phone_number": "",
+      "address": "",
+      "country": "",
+      "state": "",
+      "city": "",
+      "date_joined": "2024-08-15",
+      "status": "pending",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "useraccounts.individualprofile",
+    "pk": 9,
+    "fields": { "gender": "female" }
+  },
+  {
+    "model": "useraccounts.individualprofile",
+    "pk": 10,
+    "fields": { "gender": "male" }
+  },
+  {
+    "model": "useraccounts.individualprofile",
+    "pk": 11,
+    "fields": { "gender": "female" }
+  },
+  {
+    "model": "useraccounts.individualprofile",
+    "pk": 12,
+    "fields": { "gender": "male" }
+  },
+  {
+    "model": "useraccounts.individualprofile",
+    "pk": 13,
+    "fields": { "gender": "female" }
+  },
+  {
+    "model": "useraccounts.companyprofile",
+    "pk": 4,
+    "fields": { "company_registration_number": "PVT20215678" }
+  },
+  {
+    "model": "useraccounts.companyprofile",
+    "pk": 5,
+    "fields": { "company_registration_number": "PVT30987654" }
+  },
+  {
+    "model": "useraccounts.companyprofile",
+    "pk": 6,
+    "fields": { "company_registration_number": "PVT40123456" }
+  },
+  {
+    "model": "useraccounts.companyprofile",
+    "pk": 7,
+    "fields": { "company_registration_number": "PVT50345678" }
+  },
+  {
+    "model": "useraccounts.companyprofile",
+    "pk": 8,
+    "fields": { "company_registration_number": "PVT60567890" }
+  },
+  {
+    "model": "referrals.staff",
+    "pk": 1,
+    "fields": { "user": 14, "role": "superadmin" }
+  },
+  {
+    "model": "referrals.staff",
+    "pk": 2,
+    "fields": { "user": 15, "role": "admin" }
+  },
+  {
+    "model": "referrals.staff",
+    "pk": 3,
+    "fields": { "user": 16, "role": "admin" }
+  },
+  {
+    "model": "referrals.staff",
+    "pk": 4,
+    "fields": { "user": 17, "role": "superadmin" }
+  },
+  {
+    "model": "referrals.staff",
+    "pk": 5,
+    "fields": { "user": 18, "role": "admin" }
+  }
+]

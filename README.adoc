@@ -1,0 +1,104 @@
+= Global Cluster Backend
+
+Global Cluster Backend is a robust Django REST API designed to serve as a comprehensive fintech backend solution. It facilitates user registration, business management, and seamless payment integration.
+
+== Features
+
+* User Registration and Authentication
+* Business Profile Management
+* Payment Integration
+* Financial Transaction Handling
+* Secure API Endpoints
+
+== Technology Stack
+
+* Python 3.9+
+* Django 4.2+
+* Django REST Framework 3.14+
+
+== Getting Started
+
+=== Prerequisites
+
+* Python 3.9 or higher
+* pip
+* virtualenv (recommended)
+
+=== Installation
+
+1. Clone the repository:
++
+[source,bash]
+----
+git clone https://github.com/Mohamed-code-marvel/global-cluster-backend.git
+cd global-cluster-backend
+----
+
+2. Create and activate a virtual environment:
++
+[source,bash]
+----
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+----
+
+3. Install dependencies:
++
+[source,bash]
+----
+pip install -r requirements.txt
+----
+
+4. Set up environment variables:
++
+[source,bash]
+----
+cp .env.example .env
+----
+Edit `.env` with your specific configuration.
+
+5. Run migrations:
++
+[source,bash]
+----
+python manage.py migrate
+----
+
+6. Load initial users from the link:useraccounts/fixtures/initial_users.json[user accounts] fixtures:
++
+[source,bash]
+----
+python manage.py loaddata useraccounts/fixtures/initial_users.json
+----
+
+7. Start the development server:
++
+[source,bash]
+----
+python manage.py runserver
+----
+
+== API Documentation
+
+API documentation is available at link:api_schema.yml[api_schema] when the server is running.
+
+== Testing
+
+Run the test suite with:
+
+[source,bash]
+----
+python manage.py test
+----
+
+== Contributing
+
+Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+
+== License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+== Contact
+
+For any queries, please reach out to support@globalcluster.com

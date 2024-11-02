@@ -1,0 +1,251 @@
+ADMINS
+
+username: Lotanna Tayo
+email: lotatayo@email.com
+pswd:  vp4ecQTGw87ZkuXMVNSjCh
+
+username: Olanna Chukwuma
+email: olachukwu@email.com
+pwsd:  NQhfpXxFT7Dt5nWa8KuJvd
+
+username: Jasi Kwali
+email: jakwali@email.com
+pswd:  QM2aZYCcnbrWgqKSGs86zP
+
+STAFF
+
+[
+  {
+  "first_name": "Hassan",
+  "last_name": "Abdullahi",
+  "gender": "male",
+  "phone_number": "+2347056789017",
+  "address": "58 Bauchi Road",
+  "country": "Nigeria",
+  "state": "Bauchi",
+  "city": "Bauchi",
+  "user": {
+    "email": "hassanabdullahi@email.com",
+    "name": "Hassan Abdullahi",
+    "user_type": "superadmin",
+    "password": "Wx6Ns4Vf9Kl7Pq5Ym"
+  }
+},
+  {
+    "first_name": "Abdul",
+    "last_name": "Aliyu",
+    "gender": "male",
+    "phone_number": "+2347056789013",
+    "address": "25 Zaria Road",
+    "country": "Nigeria",
+    "state": "Kaduna",
+    "city": "Zaria",
+    "user": {
+      "email": "abdul.aliyu@email.com",
+      "name": "Abdul Aliyu",
+      "user_type": "staff",
+      "password": "Pk2Dv8Cx3Ns7Hj2Lo"
+    }
+  },
+  {
+    "first_name": "Fatima",
+    "last_name": "Bello",
+    "gender": "female",
+    "phone_number": "+2347056789014",
+    "address": "32 Sokoto Avenue",
+    "country": "Nigeria",
+    "state": "Sokoto",
+    "city": "Sokoto",
+    "user": {
+      "email": "fatimabello@email.com",
+      "name": "Fatima Bello",
+      "user_type": "staff",
+      "password": "Jf3Mb9Xz8Wr6Sl4Gh"
+    }
+  },
+  {
+    "first_name": "Suleiman",
+    "last_name": "Usman",
+    "gender": "male",
+    "phone_number": "+2347056789015",
+    "address": "12 Katsina Road",
+    "country": "Nigeria",
+    "state": "Katsina",
+    "city": "Katsina",
+    "user": {
+      "email": "suleimanusman@email.com",
+      "name": "Suleiman Usman",
+      "user_type": "superadmin",
+      "password": "Yv5Qm4Gh8Lf7Kj3Pn"
+    }
+  },
+  {
+    "first_name": "Maryam",
+    "last_name": "Gambo",
+    "gender": "female",
+    "phone_number": "+2347056789016",
+    "address": "45 Abuja Street",
+    "country": "Nigeria",
+    "state": "Abuja",
+    "city": "Abuja",
+    "user": {
+      "email": "maryamgambo@email.com",
+      "name": "Maryam Gambo",
+      "user_type": "staff",
+      "password": "Lk9Rv6Zn7Hp3Bj4Ws"
+    }
+  }
+]
+
+COMPANIES
+
+{
+    "company_name": "Lagos Tech Solutions",
+    "company_registration_number": "PVT20215678",
+    "phone_number": "+234812345678",
+    "address": "45 Marina Street, Lagos",
+    "country": "Nigeria",
+    "user": {
+       "email": "lagostech@email.com",
+        "name": "Lagos Tech Solutions",
+        "user_type": "company",
+        "password": "Xk9Lm2Qp3RtY7Bv"
+    }
+}
+{
+   "company_name": "Kano Agro Enterprises",
+   "company_registration_number": "PVT30987654",
+   "phone_number": "+234903456789",
+   "address": "78 Kano Road, Kano",
+   "country": "Nigeria",
+   "user": {
+      "email": "kanoagro@email.com",
+      "user_type": "company",
+      "name": "Kano Agro Enterprises",
+      "password": "Jh7FgTr5Nm2Kl9P"
+   }
+}
+{
+   "company_name": "Port Harcourt Oil Services",
+   "address": "12 Aba Road, Port Harcourt",
+   "phone_number": "+234705678901",
+   "country": "Nigeria",
+   "company_registration_number": "PVT40123456",
+   "user": {
+      "name": "Port Harcourt Oil Services",
+      "email": "phoil@email.com",
+      "user_type": "company",
+      "password": "Qw3Er5Ty7Ui9Op"
+   }
+}
+{
+   "company_name": "Ibadan Agric Innovations",
+   "address": "56 Dugbe Market, Ibadan",
+   "phone_number": "+234809876543",
+   "country": "Nigeria",
+   "company_registration_number": "PVT50345678",
+   "user": {
+      "name": "Ibadan Agric Innovations",
+      "email": "ibadanagric@email.com",
+      "user_type": "company",
+      "password": "As7Df9Gh2Jk4Lm"
+   }
+}
+{
+   "company_name": "Calabar Tourism Ltd",
+   "address": "89 Marina Beach Road, Calabar",
+   "phone_number": "+234706789012",
+   "country": "Nigeria",
+   "company_registration_number": "PVT60567890",
+   "user": {
+      "name": "Calabar Tourism Ltd",
+      "email": "calabartourism@email.com",
+      "user_type": "company",
+      "password": "Zx8Cv6Bn4Mk2Lp"
+   }
+}
+
+INDIVIDUALS
+
+{
+  "first_name": "Oluwaseun",
+  "last_name": "Adebayo",
+  "gender": "female",
+  "phone_number": "+2348012345678",
+  "address": "15 Broad Street",
+  "country": "Nigeria",
+  "state": "Lagos",
+  "city": "Lagos",
+  "user": {
+    "email": "oluwaseunadebayo@email.com",
+    "name": "Oluwaseun Adebayo",
+    "user_type": "individual",
+    "password": "NewPassword123"
+  }
+}
+
+{
+  "first_name": "Chukwudi",
+  "last_name": "Okafor",
+  "gender": "male",
+  "phone_number": "+2347023456789",
+  "address": "7 Okpara Avenue",
+  "country": "Nigeria",
+  "state": "Enugu",
+  "city": "Enugu",
+  "user": {
+    "email": "chukwudiokafor@email.com",
+    "name": "Chukwudi Okafor",
+    "user_type": "individual",
+    "password": "Jt6Hg8Fm2Np4Bv7Cx"
+  }
+}
+{
+"first_name": "Fatima",
+"last_name": "Abubakar",
+"gender": "female",
+"phone_number": "+2349034567890",
+"address": "23 Ahmadu Bello Way",
+"country": "Nigeria",
+"state": "Kaduna",
+"city": "Kaduna",
+  "user": {
+    "email": "fatimaabubakar@email.com",
+    "name": "Fatima Abubakar",
+    "user_type": "individual",
+"password": "Rt5Yb9Un2Mk7Lp3Qw"
+  }
+}
+{
+"first_name": "Emeka",
+"last_name": "Nwosu",
+"gender": "male",
+"phone_number": "+2348045678901",
+"address": "42 Aba Road",
+"country": "Nigeria",
+"state": "Rivers",
+"city": "Port Harcourt",
+"user": {
+    "email": "emekanwosu@email.com",
+    "name": "Emeka Nwosu",
+"user_type": "individual",
+"password": "Zx1Cv6As4Df8Gh2Jk"
+  }
+}
+{
+"first_name": "Amina",
+"last_name": "Yusuf",
+"gender": "female",
+"phone_number": "+2347056789012",
+"address": "18 Kano Road",
+"country": "Nigeria",
+"state": "Kano",
+"city": "Kano",
+"user": {
+    "email": "aminayusuf@email.com",
+    "name": "Amina Yusuf",
+    "user_type": "individual",
+    "password": "Nm7Bv3Cx9Zs5Lk1Jh"
+  }
+}
+
